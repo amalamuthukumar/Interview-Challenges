@@ -15,6 +15,8 @@
 		95E65A602187060C00E70A90 /* NobodyDecision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E65A5F2187060C00E70A90 /* NobodyDecision.swift */; };
 		95E65A6221870D0500E70A90 /* PartialSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E65A6121870D0500E70A90 /* PartialSums.swift */; };
 		95E65A64218713FD00E70A90 /* CookingReceipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E65A63218713FD00E70A90 /* CookingReceipes.swift */; };
+		BBC99968218F54DF00496272 /* MostFoundElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC99967218F54DF00496272 /* MostFoundElement.swift */; };
+		BBC9996A218F5CD300496272 /* TwoSumProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC99969218F5CD300496272 /* TwoSumProblem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		95E65A5F2187060C00E70A90 /* NobodyDecision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NobodyDecision.swift; sourceTree = "<group>"; };
 		95E65A6121870D0500E70A90 /* PartialSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartialSums.swift; sourceTree = "<group>"; };
 		95E65A63218713FD00E70A90 /* CookingReceipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookingReceipes.swift; sourceTree = "<group>"; };
+		BBC99967218F54DF00496272 /* MostFoundElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostFoundElement.swift; sourceTree = "<group>"; };
+		BBC99969218F5CD300496272 /* TwoSumProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumProblem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +69,8 @@
 				95E65A5F2187060C00E70A90 /* NobodyDecision.swift */,
 				95E65A6121870D0500E70A90 /* PartialSums.swift */,
 				95E65A63218713FD00E70A90 /* CookingReceipes.swift */,
+				BBC99967218F54DF00496272 /* MostFoundElement.swift */,
+				BBC99969218F5CD300496272 /* TwoSumProblem.swift */,
 				95E65A512186DD1F00E70A90 /* Main.storyboard */,
 				95E65A542186DD3200E70A90 /* Assets.xcassets */,
 				95E65A562186DD3200E70A90 /* LaunchScreen.storyboard */,
@@ -148,7 +154,9 @@
 				95E65A64218713FD00E70A90 /* CookingReceipes.swift in Sources */,
 				95E65A6221870D0500E70A90 /* PartialSums.swift in Sources */,
 				95E65A502186DD1F00E70A90 /* BinarySearch.swift in Sources */,
+				BBC9996A218F5CD300496272 /* TwoSumProblem.swift in Sources */,
 				95E65A4E2186DD1F00E70A90 /* AppDelegate.swift in Sources */,
+				BBC99968218F54DF00496272 /* MostFoundElement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
